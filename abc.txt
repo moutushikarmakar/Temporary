@@ -1,3 +1,4 @@
 I completed my graduation in the year 2018.
 I like coding. I have recently started developing games like TicTacToe, Bingo etc.
 This file contains more information than the same file in feature branch!!
+This is the conflicting file in my local. I have an abc.txt file in my remote.
